@@ -35,8 +35,8 @@ nav {
 }
 
 .nav-links li a {
-    color: whitesmoke;
-    font-weight: 500;
+    color: rgb(63, 58, 58);
+    font-weight: 600;
     font-size: medium;
     text-decoration: none;
 }
@@ -52,7 +52,7 @@ nav {
     top: 30%;
     left: 50%;
     font-family: "Lobster", cursive;
-    color: rgb(180, 123, 54);
+    color: rgb(36, 34, 33);
     font-size: 2rem;
     transform: translate(-50, -30%);
     -webkit-transform: translate(-50, -30%);
